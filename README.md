@@ -1,6 +1,6 @@
 # A/B Test Analysis – E-commerce Recommender System
 
-### 📌 Project Overview
+### Project Overview
 
 This project analyzes an A/B test conducted in an international e-commerce platform to evaluate the impact of a new recommender system on user behavior and business performance.
 
